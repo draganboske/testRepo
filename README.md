@@ -1,3 +1,1 @@
-MAIN - MASTER
-
-Druga izmjena
+Prvi Branch
