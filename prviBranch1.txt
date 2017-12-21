@@ -1,1 +1,0 @@
-neki text u prviBranch1.txt
