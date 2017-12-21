@@ -1,1 +1,1 @@
-Neki text u prviBranch1 fajlu
+Neki text u drugiBranch1 fajlu
