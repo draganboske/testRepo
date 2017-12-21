@@ -1,2 +1,3 @@
 master1 text
 novi red preko noviBranch
+treca linije preko noviBranch
