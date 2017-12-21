@@ -1,1 +1,2 @@
 master1 text
+novi red preko noviBranch
