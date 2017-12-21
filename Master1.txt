@@ -2,3 +2,4 @@ ZAJEBAN TEXT KOJI JE DODAT U MASTER1.TXT NAKON STO Branch1 MERGED TO MASTER.
 A OVAJ MASTER1 u bio empty pre toga.
 
 Jos neni zajeban text, dodat preko PRVI brancha
+Novi red ali iz Master Brancha
