@@ -1,2 +1,0 @@
-Dodat text u NoviBranchFile.txt fajla.
-Text u dva reda!

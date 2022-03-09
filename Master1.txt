@@ -1,5 +1,0 @@
-master1 text
-drugi linija preko mastera
-novi red preko noviBranch
-treca linije preko noviBranch
-petu red dodat kasnije nakon megre-a
