@@ -1,6 +1,6 @@
 Hi!
 
-This is my personal Test Repository made for experimenting with Git and GitHub.
+This Test Repository has been made for students for experimentation purpose with Git and GitHub.
 
 You are free to fork it!
 
